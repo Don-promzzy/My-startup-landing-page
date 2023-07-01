@@ -20,4 +20,4 @@ I welcome contributions to enhance the landing page's design and functionality. 
 ## Acknowledgements
 Special thanks to my mentor, Andrei Neagoie, The Founder & Lead Instructor of Zero To Mastery, for his guidance and support throughout the development process.
 
-We appreciate your interest in our startup! Happy coding!
+I appreciate your interest in my startup! Happy coding!
